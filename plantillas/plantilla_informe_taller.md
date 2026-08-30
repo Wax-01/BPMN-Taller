@@ -34,7 +34,7 @@ El diagrama representa fielmente el proceso que realiza la cliente cuando tiene 
 
 ## 📈 Diagrama final entregado
 
-![Diagrama](BPMN-UniSabana.drawio.png)
+![BPMN-UniSabana.drawio.png](/BPMN-UniSabana.drawio.png)
 
 ## 📋 Tabla de actores, entidades o componentes
 
